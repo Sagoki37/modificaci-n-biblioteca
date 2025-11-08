@@ -1,0 +1,6 @@
+# ORM principal
+SQLAlchemy>=2.0.0
+# Driver para MariaDB/MySQL
+mysql-connector-python
+# Opcional: Para el manejo de variables de entorno (recomendado)
+python-dotenv
